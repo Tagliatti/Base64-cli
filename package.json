@@ -1,6 +1,6 @@
 {
-  "name": "Base64-cli",
-  "version": "1.0.0",
+  "name": "base64cli",
+  "version": "1.0.3",
   "description": "A tool for rapidly encode or decode base 64 in command line.",
   "main": "index.js",
   "scripts": {
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/tagliatti/Base64-cli.git"
+    "url": "http://github.com/tagliatti/Base64cli.git"
   },
   "bugs": {
     "mail": "filipetagliatti@gmail.com",
-    "url": "http://github.com/tagliatti/Base64-cli/issues"
+    "url": "http://github.com/tagliatti/Base64cli/issues"
   },
   "keywords": ["base64", "cli", "command line", "console", "terminal"],
   "author": "Filipe Tagliatti <filipetagliatti@gmail.com>",
   "license": "MIT",
   "bin": {
-    "base64cli": "./index.js"
+    "base64cli": "index.js"
   }
 }

@@ -4,7 +4,7 @@ A tool for rapidly encode or decode base 64 in command line.
 ### Install
 Install the module globally
 ```sh
-npm install -g base64-cli
+npm install -g base64cli
 ```
 
 ### Encode
